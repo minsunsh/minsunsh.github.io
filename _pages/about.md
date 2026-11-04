@@ -17,7 +17,8 @@ Before joining UC Irvine, I received my Master's degree in Computer Science at U
 
 News
 ======
-- **Sep. 2025:** Started my PhD journey at **UC Irvine**!
+- **Sep. 2026:** I've been selected as a 2026-2027 Beall Applied Innovation Graduate Innovation Fellow!
+- **Sep. 2025:** Started my PhD journey at UC Irvine!
 <!-- - **[05.2024]** Finished my Master's degree at **USC**. -->
 <!-- [09-22-2025] Excited to start my PhD journey at UCI! -->
 
