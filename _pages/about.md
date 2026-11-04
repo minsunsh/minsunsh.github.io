@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Minsun Shim. I am a second-year Ph.D. student in Computer Engineering at University of California, Irvine. My advisor is [Prof. Zhou Li](https://faculty.sites.uci.edu/zhouli/). 
+Hello, my name is Minsun Shim. I am a second-year Ph.D. student in Computer Engineering at University of California, Irvine. My advisor is Prof. [Zhou Li](https://faculty.sites.uci.edu/zhouli/). 
 
 My current research focus is **Agent Privacy & Security**, where I study privacy and security risks in LLM agents, with a focus on principled defenses such as information flow control. I also have a prior experience in large-scale network security measurement.
 
-Before joining UC Irvine, I received my Master's degree in Computer Science at University of Southern California (USC), and was part of the [STEEL lab](https://steel.isi.edu/) in [USC/ISI](https://www.isi.edu/), advised by [Prof. Jelena Mirkovic](https://www.isi.edu/people-mirkovic/). Also, I received my Bachelor's degree in Computer Security at Seoul Women's University (SWU).
+Before joining UC Irvine, I received my Master's degree in Computer Science at University of Southern California (USC), and was part of the [STEEL lab](https://steel.isi.edu/) in [USC Information Sciences Institute](https://www.isi.edu/), advised by Prof. [Jelena Mirkovic](https://www.isi.edu/people-mirkovic/). Also, I received my Bachelor's degree in Computer Security at Seoul Women's University.
 
 ------
 
@@ -34,7 +34,7 @@ Publications
     <h3>Confuse the Model, Control the Flow: Understanding and Mitigating Privacy Leakage from LLM Agents with Information Flow Control</h3>
     <p class="publication-authors"><strong>Minsun Shim</strong>, Ramisha Raida Karim, Ruthwik Jakkula, Kaiwen Zhou, Xin Liu, Xin Eric Wang, Zhou Li</p>
     <p class="publication-authors"><em>Preprint</em>, 2026</p>
-    <p><a href="{{ 'https://arxiv.org/abs/2609.14003' | relative_url }}" target="_blank" rel="noopener">[PDF]</a></p>
+    <p>[<a href="{{ 'https://arxiv.org/abs/2609.14003' | relative_url }}" target="_blank" rel="noopener">PDF</a>]</p>
   </div>
 </div>
 
@@ -44,7 +44,7 @@ Publications
     <h3>Intelligent Detection of IoT Botnets Using Machine Learning and Deep Learning</h3>
     <p class="publication-authors">Jiyeon Kim, <strong>Minsun Shim</strong>, Seungah Hong, Yulim Shin, Eunjung Choi</p>
     <p class="publication-authors"><em>Applied Sciences</em>, 2020</p>
-    <p><a href="{{ 'https://www.mdpi.com/2076-3417/10/19/7009' | relative_url }}" target="_blank" rel="noopener">[PDF]</a></p>
+    <p>[<a href="{{ 'https://www.mdpi.com/2076-3417/10/19/7009' | relative_url }}" target="_blank" rel="noopener">PDF</a>]</p>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ Publications
     <h3>CNN-Based Network Intrusion Detection against Denial-of-Service Attacks</h3>
     <p class="publication-authors">Jiyeon Kim, Jiwon Kim, Hyunjung Kim, <strong>Minsun Shim</strong>, Eunjung Choi</p>
     <p class="publication-authors"><em>Electronics</em>, 2020</p>
-    <p><a href="{{ 'https://www.mdpi.com/2079-9292/9/6/916' | relative_url }}" target="_blank" rel="noopener">[PDF]</a></p>
+    <p>[<a href="{{ 'https://www.mdpi.com/2079-9292/9/6/916' | relative_url }}" target="_blank" rel="noopener">PDF</a>]</p>
   </div>
 </div>
 
